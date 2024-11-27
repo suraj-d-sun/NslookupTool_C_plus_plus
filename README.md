@@ -22,8 +22,8 @@ Before compiling and running the program, ensure the following are installed on 
    Open your command line (CMD or PowerShell) and run the following command to clone the repository:
    
    ```bash
-   git clone https://github.com/suraj-d-sun//dns-lookup-tool.git
-   cd dns-lookup-tool
+   git clone https://github.com/suraj-d-sun/NslookupTool_C_plus_plus.git
+   cd NslookupTool_C_plus_plus
 
 2. **Navigate to the source folder**: 
     Change the directory to where the source files (.cpp and .h files) are located:
@@ -65,18 +65,9 @@ The program will resolve the domain www.youtube.com and display its associated I
     [INFO.] 142.250.196.174
     [INFO.] 172.217.163.174
     [INFO.] 172.217.163.206
-    [INFO.] 172.217.166.110
-    [INFO.] 216.58.200.142
-    [INFO.] 142.250.76.78
-    [INFO.] 142.250.77.142
-    [INFO.] 142.250.182.14
-    [INFO.] 142.250.182.46
-    [INFO.] 142.250.182.78
-    [INFO.] 142.250.182.110
-    [INFO.] 142.250.182.142
 
 # Screenshot
-Below is a screenshot showing the command-line output of the program when resolving the domains.
+Below is a example screenshots showing the command-line output of the program when resolving the domains.
 
 ![alt text]({C964E158-3080-4849-BE4A-0A01CBCAEE9A}.png)
 
