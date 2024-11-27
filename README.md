@@ -69,10 +69,12 @@ The program will resolve the domain www.youtube.com and display its associated I
 # Screenshot
 Below is a example screenshots showing the command-line output of the program when resolving the domains.
 
-![alt text]({C964E158-3080-4849-BE4A-0A01CBCAEE9A}.png)
+![{87433C3A-8DD0-41C2-B6CD-C5A7885A9EFF}](https://github.com/user-attachments/assets/e9ef7f4c-92c5-4a30-b2ee-a1807e98293a)
 
-![alt text]({02E1DE95-C6B9-4D9C-AE54-A6348449757D}.png)
+![{4A963BD0-CCB4-488F-BF0E-2FDF1D703A9D}](https://github.com/user-attachments/assets/bee23224-f12c-4827-983a-e6a59d4f6b9f)
 
-![alt text]({6B19EF4D-B32C-41DD-97AE-794F5B081B0B}.png)
+![{3F6169A8-4674-4FFC-899C-830B5950A307}](https://github.com/user-attachments/assets/3bacee68-5d77-41db-9659-b03fd9509b7e)
 
-![alt text]({DF20CEA7-2CCA-4790-AA49-DBBA618CF712}.png)
+![{EB2C340B-D450-4189-89CF-B4C7AF5DE751}](https://github.com/user-attachments/assets/8af6c239-0371-4b02-b8a7-ea9efb247622)
+
+
