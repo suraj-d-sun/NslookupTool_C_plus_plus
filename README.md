@@ -1,4 +1,4 @@
-# DNS Lookup Tool (C++)
+# NslookupTool_(C++)
 
 This project is a C++ DNS Lookup Tool that resolves domain names to their respective IP addresses using the Winsock API for DNS resolution. It also supports logging the results and handling domain input through command-line arguments.
 
